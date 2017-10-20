@@ -1,0 +1,13 @@
+Do you want to find surface area or area of a 3D object
+
+(option 1) Which shape do you want to find surface area?
+(option 2) Which shape do you want to find for area?
+
+//Options above will lead to input question below
+
+What is the type of shape you want? /* Lists different types of 3D Objects*/
+
+/*After the user inputs a choice of shape, it will prompt for different radius, lengths, base
+to calculate what the user originally wanted to find*/
+
+//Finally it will output a sentence + area or surface area
