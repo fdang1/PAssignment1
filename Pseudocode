@@ -1,0 +1,16 @@
+Create new scanner
+Question to ask for input about area or surface area
+
+if area was chose
+  ask for shape(repeat for every other shape)
+    if shape1
+      calculate area
+        print(area)
+
+else surface area was chose
+  ask for shape (repeat for every other shape)
+    if shape1
+      calculate surface area
+        print(surface area)
+
+   
